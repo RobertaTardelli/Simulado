@@ -1,0 +1,90 @@
+body {
+    height: 100vh;
+}
+
+
+.geral{
+    display: flex;
+    width: 100%;
+    max-width: 50%; 
+    height: 90vh;
+    margin: auto;
+}
+.roxo {
+    display: flex;
+  flex-direction: column; 
+    width: 40%;
+    height: 100%;
+    background-color: #c358ed;
+    margin-right: 10px;
+}
+
+.roxo h2 {
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 5px;
+
+}
+
+.roxo h3{
+    font-size: 15px;
+    color: white;
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.umedois {
+    display: flex;
+    width: 100%;
+    gap: 10px;
+    
+}
+h1 {
+   text-align: end;
+   color: white;
+}
+.umacinco{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.verde {
+    width: 30%;
+    height: 15vh;
+    background-color: #70d9b8;
+    
+
+}
+.azul{
+    width: 70%;
+    height: 15vh;
+    background-color:#2eb2ff;
+    
+
+}
+
+.tresequatro {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+.azulclara {
+    width: 60%;
+    height: 450px;
+    background-color: #44d9e6;
+    
+}
+.vermelho {
+    height: 450px;
+    width: 40%;
+    background-color: #ff5c5c;
+}
+
+.amarela {
+    height: 100%;
+    width: 710px;
+    background-color: #ffbd4a;
+    
+
+}
